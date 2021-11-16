@@ -1,5 +1,5 @@
 #### C++ML
-In progress. In this project I simply try to test some stuff. So the code is not optimised and it does not run on GPU.
+In progress. In this project I simply experiment with some stuff. So the code is not optimised and it does not run on GPU.
 
 Implements matrix maths with LU decomposition and Linear Programming. Can be used for classification (linear, polynomial, Fouirer).
 
