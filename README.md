@@ -1,7 +1,7 @@
 #### C++ML
 In progress. In this project I experiment with some stuff. So the code is not optimised and it does not run on GPU. Requires C++14. Implements matrix maths with LU decomposition and Linear Programming. Can be used for classification (linear, polynomial, Fourier).
 
-Matrix.h
+matrix.h
 ```
   // create matrix
   Matrix<float> A(3, 3, 1);
