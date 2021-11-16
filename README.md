@@ -4,7 +4,7 @@ In progress. In this project I simply try to test some stuff. So the code is not
 Implements matrix maths with LU decomposition and Linear Programming. Can be used for classification (linear, polynomial, Fouirer).
 
 Matrix.h
-<code>
+```
   // create matrix
   Matrix<float> A(3, 3, 1);
   A.print();
@@ -37,10 +37,10 @@ Matrix.h
   A.data[0][0]; // first row first column
   A.iRow;       // number rows
   A.iColumn;    // number columns
-</code>
+```
   
 matrix_utils.h
-<code>
+```
   /*
     The linear program
 			max 3 x1 + 5 x2 + 0
@@ -69,4 +69,4 @@ matrix_utils.h
   auto LU = LUdecomposition(A);
   LU.first.print();
   LU.second.print();
-</code>
+```
