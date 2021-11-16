@@ -44,18 +44,18 @@ Matrix.h
   
 matrix_utils.h
 ```
-  /*
-    The linear program
-			max 3 x1 + 5 x2 + 0
-			  x1 		<= 4
-				   2 x2 <= 12
-			3 x1 + 2 x2 <= 18
-		corresponds to matrix
-			-3 -5 0
-			 1  0 4
-			 0  2 12
-			 3  2 18
-  */
+/*
+The linear program
+max 3 x1 + 5 x2 + 0
+  x1        <= 4
+       2 x2 <= 12
+3 x1 + 2 x2 <= 18
+corresponds to matrix
+-3 -5 0
+ 1  0 4
+ 0  2 12
+ 3  2 18
+*/
   //
   Matrix<float> A("-3 -5 0, 1 0 4, 0 2 12, 3 2 18");
   A.print();
