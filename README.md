@@ -1,7 +1,5 @@
 #### C++ML
-In progress. In this project I experiment with some stuff. So the code is not optimised and it does not run on GPU. Requires C++14.
-
-Implements matrix maths with LU decomposition and Linear Programming. Can be used for classification (linear, polynomial, Fouirer).
+In progress. In this project I experiment with some stuff. So the code is not optimised and it does not run on GPU. Requires C++14. Implements matrix maths with LU decomposition and Linear Programming. Can be used for classification (linear, polynomial, Fouirer).
 
 Matrix.h
 ```
@@ -73,3 +71,4 @@ matrix_utils.h
   LU.first.print();
   LU.second.print();
 ```
+For the ML part see main.cpp.
