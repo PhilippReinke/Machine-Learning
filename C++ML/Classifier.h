@@ -60,9 +60,6 @@ int check_data(vector<Matrix<float>> &x_data, vector<Matrix<float>> &y_data)
 	return 0;
 }
 
-// 
-
-
 // FOURIER
 vector<Matrix<float>> Fourier_PrepareX(vector<Matrix<float>> &x_data, unsigned iDegree)
 {
