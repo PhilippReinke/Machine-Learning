@@ -14,6 +14,9 @@ Matrix.h
   // matrix from file (first line must be like "1 0 0, 0 1 0, 0 0 1")
   // Matrix<float> C("filename.mat");
   
+  // save matrix
+  A.save("mat.mat");
+  
   // addition and scalar multiplication
   (A+B).print();
   (B*(-1)).print();
