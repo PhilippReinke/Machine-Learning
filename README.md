@@ -4,13 +4,13 @@ In this project I experiment with some stuff. So the code is not optimised and i
 matrix.h
 ```
   // create matrix
-  Matrix<float> A(3, 3, 1);
+  Matrix<double> A(3, 3, 1);
   A.print();
-  Matrix<float> B("1 0 0, 0 1 0, 0 0 1"); // identity
+  Matrix<double> B("1 0 0, 0 1 0, 0 0 1"); // identity
   B.print();
   
   // matrix from file (first line must be like "1 0 0, 0 1 0, 0 0 1")
-  // Matrix<float> C("filename.mat");
+  // Matrix<double> C("filename.mat");
   
   // save matrix
   A.save("mat.mat");
@@ -23,15 +23,15 @@ matrix.h
   A.transpose().print();
   
   // apply function to all entries
-  Matrix<float> vec_in(4, 1, 0);
-  Matrix<float> weights(2, 4, 0);
+  Matrix<double> vec_in(4, 1, 0);
+  Matrix<double> weights(2, 4, 0);
   auto vec_out = weights*vec_in;
-  vec_out.applyFunction([](float a) { return (a >= 0) ? 1 : 0; } );
+  vec_out.applyFunction([](double a) { return (a >= 0) ? 1 : 0; } );
   
   // add row or column
-  B.addRow(vector<float>{1, 1, 1});
+  B.addRow(vector<double>{1, 1, 1});
   B.print();
-  B.addColumn(vector<float>{1,1,1,1});
+  B.addColumn(vector<double>{1,1,1,1});
   B.print();
   
   // access entry or get dimension
@@ -55,7 +55,7 @@ matrix_utils.h
   3  2 18
 */
   //
-  Matrix<float> A("-3 -5 0, 1 0 4, 0 2 12, 3 2 18");
+  Matrix<double> A("-3 -5 0, 1 0 4, 0 2 12, 3 2 18");
   A.print();
 	
   // solve LP to final Tableau
@@ -63,10 +63,10 @@ matrix_utils.h
   A_solution.print();
   
   // solve LP to variables
-  solveLP_variables(Matrix<float>("0 0 0, 0 -1 1, 1 1 1")).print();
+  solveLP_variables(Matrix<double>("0 0 0, 0 -1 1, 1 1 1")).print();
   
   // LU Decomposition
-  Matrix<float> A("1 0 1, 0 1 0, 0 0 1");
+  Matrix<double> A("1 0 1, 0 1 0, 0 0 1");
   auto LU = LUdecomposition(A);
   LU.first.print();
   LU.second.print();
