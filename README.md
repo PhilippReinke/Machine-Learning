@@ -1,3 +1,6 @@
+#### Remark
+Other ML projects in the -Web- folder.
+
 #### C++ML (in progress)
 In this project I experiment with some stuff. So the code is not optimised and it does not run on GPU. Requires C++14. Implements matrix maths with LU decomposition and Linear Programming. Can be used for classification (linear, polynomial, Fourier).
 
