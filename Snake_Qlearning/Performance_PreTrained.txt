@@ -1,0 +1,110 @@
+QTable wurde bereits 10.000 Spiele vortrainiert. -> qTable.txt
+
+==== 500
+Performance 12.17 mit alpha=0.010 und gamma=0.500 und numGames=500 und Minimum 1
+Performance 13.43 mit alpha=0.010 und gamma=0.600 und numGames=500 und Minimum 1
+Performance 14.79 mit alpha=0.010 und gamma=0.700 und numGames=500 und Minimum 1 x
+Performance 13.41 mit alpha=0.010 und gamma=0.800 und numGames=500 und Minimum 1
+Performance 13.73 mit alpha=0.010 und gamma=0.900 und numGames=500 und Minimum 1
+
+Performance 12.52 mit alpha=0.050 und gamma=0.500 und numGames=500 und Minimum 1
+Performance 13.54 mit alpha=0.050 und gamma=0.600 und numGames=500 und Minimum 1
+Performance 12.33 mit alpha=0.050 und gamma=0.700 und numGames=500 und Minimum 1
+Performance 13.51 mit alpha=0.050 und gamma=0.800 und numGames=500 und Minimum 1
+Performance 13.93 mit alpha=0.050 und gamma=0.900 und numGames=500 und Minimum 1 x
+
+Performance 14.76 mit alpha=0.100 und gamma=0.500 und numGames=500 und Minimum 1 x
+Performance 13.88 mit alpha=0.100 und gamma=0.600 und numGames=500 und Minimum 1
+Performance 13.10 mit alpha=0.100 und gamma=0.700 und numGames=500 und Minimum 1
+Performance 12.91 mit alpha=0.100 und gamma=0.800 und numGames=500 und Minimum 1
+Performance 13.00 mit alpha=0.100 und gamma=0.900 und numGames=500 und Minimum 1
+
+	Performance 14.47 mit alpha=0.200 und gamma=0.500 und numGames=500 und Minimum 1
+	Performance 15.94 mit alpha=0.200 und gamma=0.600 und numGames=500 und Minimum 1 x
+	Performance 13.20 mit alpha=0.200 und gamma=0.700 und numGames=500 und Minimum 1
+	Performance 14.46 mit alpha=0.200 und gamma=0.800 und numGames=500 und Minimum 1
+	Performance 13.49 mit alpha=0.200 und gamma=0.900 und numGames=500 und Minimum 1
+
+Performance  9.00 mit alpha=0.300 und gamma=0.500 und numGames=500 und Minimum 1
+Performance 12.17 mit alpha=0.300 und gamma=0.600 und numGames=500 und Minimum 1
+Performance 15.07 mit alpha=0.300 und gamma=0.700 und numGames=500 und Minimum 1 x
+Performance 13.25 mit alpha=0.300 und gamma=0.800 und numGames=500 und Minimum 1
+Performance 12.18 mit alpha=0.300 und gamma=0.900 und numGames=500 und Minimum 1
+
+Performance 10.07 mit alpha=0.400 und gamma=0.500 und numGames=500 und Minimum 1
+Performance 13.68 mit alpha=0.400 und gamma=0.600 und numGames=500 und Minimum 1
+Performance 13.19 mit alpha=0.400 und gamma=0.700 und numGames=500 und Minimum 1
+Performance 13.82 mit alpha=0.400 und gamma=0.800 und numGames=500 und Minimum 1 x
+Performance 11.87 mit alpha=0.400 und gamma=0.900 und numGames=500 und Minimum 1
+
+
+==== 2000
+Performance 13.09 mit alpha=0.010 und gamma=0.500 und numGames=2000 und Minimum 1
+Performance 14.34 mit alpha=0.010 und gamma=0.600 und numGames=2000 und Minimum 1 x
+Performance 12.68 mit alpha=0.010 und gamma=0.700 und numGames=2000 und Minimum 1
+Performance 13.80 mit alpha=0.010 und gamma=0.800 und numGames=2000 und Minimum 1
+Performance 13.04 mit alpha=0.010 und gamma=0.900 und numGames=2000 und Minimum 1
+
+Performance 14.24 mit alpha=0.050 und gamma=0.500 und numGames=2000 und Minimum 1
+Performance 14.45 mit alpha=0.050 und gamma=0.600 und numGames=2000 und Minimum 1 x
+Performance 13.74 mit alpha=0.050 und gamma=0.700 und numGames=2000 und Minimum 1
+Performance 14.31 mit alpha=0.050 und gamma=0.800 und numGames=2000 und Minimum 1
+Performance 14.41 mit alpha=0.050 und gamma=0.900 und numGames=2000 und Minimum 1
+
+Performance 14.58 mit alpha=0.100 und gamma=0.500 und numGames=2000 und Minimum 1 x
+Performance 13.94 mit alpha=0.100 und gamma=0.600 und numGames=2000 und Minimum 1
+Performance 13.91 mit alpha=0.100 und gamma=0.700 und numGames=2000 und Minimum 1
+Performance 14.43 mit alpha=0.100 und gamma=0.800 und numGames=2000 und Minimum 1
+Performance 14.61 mit alpha=0.100 und gamma=0.900 und numGames=2000 und Minimum 1
+
+	Performance 15.08 mit alpha=0.200 und gamma=0.500 und numGames=2000 und Minimum 1
+	Performance 14.04 mit alpha=0.200 und gamma=0.600 und numGames=2000 und Minimum 1
+	Performance 15.46 mit alpha=0.200 und gamma=0.700 und numGames=2000 und Minimum 1 x
+	Performance 13.90 mit alpha=0.200 und gamma=0.800 und numGames=2000 und Minimum 1
+	Performance 13.05 mit alpha=0.200 und gamma=0.900 und numGames=2000 und Minimum 1
+
+Performance 13.20 mit alpha=0.300 und gamma=0.500 und numGames=2000 und Minimum 1
+Performance 13.68 mit alpha=0.300 und gamma=0.600 und numGames=2000 und Minimum 1
+Performance 12.57 mit alpha=0.300 und gamma=0.700 und numGames=2000 und Minimum 1
+Performance 14.03 mit alpha=0.300 und gamma=0.800 und numGames=2000 und Minimum 1 
+Performance 14.10 mit alpha=0.300 und gamma=0.900 und numGames=2000 und Minimum 1 x
+
+Performance 11.19 mit alpha=0.400 und gamma=0.500 und numGames=2000 und Minimum 1
+Performance 11.83 mit alpha=0.400 und gamma=0.600 und numGames=2000 und Minimum 1
+Performance  7.37 mit alpha=0.400 und gamma=0.700 und numGames=2000 und Minimum 1
+Performance 11.47 mit alpha=0.400 und gamma=0.800 und numGames=2000 und Minimum 1
+Performance 12.04 mit alpha=0.400 und gamma=0.900 und numGames=2000 und Minimum 1 x
+
+==== 5000
+Performance 14.60 mit alpha=0.010 und gamma=0.500 und numGames=5000 und Minimum 1 x
+Performance 14.29 mit alpha=0.010 und gamma=0.600 und numGames=5000 und Minimum 1
+Performance 14.10 mit alpha=0.010 und gamma=0.700 und numGames=5000 und Minimum 1
+Performance 13.04 mit alpha=0.010 und gamma=0.800 und numGames=5000 und Minimum 1
+Performance 13.66 mit alpha=0.010 und gamma=0.900 und numGames=5000 und Minimum 1
+
+Performance 14.38 mit alpha=0.050 und gamma=0.500 und numGames=5000 und Minimum 1
+Performance 13.63 mit alpha=0.050 und gamma=0.600 und numGames=5000 und Minimum 1
+Performance 13.62 mit alpha=0.050 und gamma=0.700 und numGames=5000 und Minimum 1
+Performance 15.04 mit alpha=0.050 und gamma=0.800 und numGames=5000 und Minimum 1 x
+Performance 14.11 mit alpha=0.050 und gamma=0.900 und numGames=5000 und Minimum 1
+
+	Performance 12.70 mit alpha=0.100 und gamma=0.500 und numGames=5000 und Minimum 1
+	Performance 15.23 mit alpha=0.100 und gamma=0.600 und numGames=5000 und Minimum 1 x
+	Performance 15.19 mit alpha=0.100 und gamma=0.700 und numGames=5000 und Minimum 1
+	Performance 13.96 mit alpha=0.100 und gamma=0.800 und numGames=5000 und Minimum 1
+	Performance 14.34 mit alpha=0.100 und gamma=0.900 und numGames=5000 und Minimum 1
+
+Performance 13.60 mit alpha=0.200 und gamma=0.500 und numGames=5000 und Minimum 1
+Performance 12.07 mit alpha=0.200 und gamma=0.600 und numGames=5000 und Minimum 1
+Performance 14.04 mit alpha=0.200 und gamma=0.700 und numGames=5000 und Minimum 1 x
+Performance 11.00 mit alpha=0.200 und gamma=0.800 und numGames=5000 und Minimum 1
+Performance 13.60 mit alpha=0.200 und gamma=0.900 und numGames=5000 und Minimum 1
+
+Performance 10.61 mit alpha=0.400 und gamma=0.500 und numGames=5000 und Minimum 1
+Performance 10.27 mit alpha=0.400 und gamma=0.600 und numGames=5000 und Minimum 1
+Performance 12.99 mit alpha=0.400 und gamma=0.700 und numGames=5000 und Minimum 1 x
+Performance 12.14 mit alpha=0.400 und gamma=0.800 und numGames=5000 und Minimum 1
+Performance 12.58 mit alpha=0.400 und gamma=0.900 und numGames=5000 und Minimum 1
+
+
+==== Fragen / Probleme
