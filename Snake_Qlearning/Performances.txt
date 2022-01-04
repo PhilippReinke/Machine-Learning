@@ -1,0 +1,24 @@
+
+qTable_8000.txt______________________________________
+Runden  Greedy  Gamma  Durchschnitt  Minimum  Maximum
+  8000   False    0.7         24.36       11       42
+
+_____________________________________________________
+Runden  Greedy  Gamma  Durchschnitt  Minimum  Maximum
+   400    True    0.2
+   400   False    0.4            17        4       31
+   400    True    0.5
+   400   False    0.7            21       10       35
+   500    True    0.7
+   500   False    0.7            24       10       46
+   500    True    0.7
+   500   False    0.7            18        5       33
+   500    True    0.7
+   500   False    0.7            21        8       39
+   500    True    1.0
+   500   False    1.0             5        1       18
+   500    True    1.0
+   500   False    1.0             9        2       24
+  1000   False    1.0            10        1       27
+
+  
